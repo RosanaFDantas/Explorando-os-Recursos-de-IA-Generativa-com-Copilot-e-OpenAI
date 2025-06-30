@@ -9,3 +9,5 @@ Exercicio elaborado utilizando o COPILOT, no anexo alguns dos exercicios realiza
 4.  criando uma receita de torta salgada com os ingredientes:  atum solido, tomate e cebola
 5.  criando uma letra de musica com as palavras:  Humanidade, leveza, sabedoria, coragem, alegria e felicidade
 
+O Exercicio utilizando o Openai não foi possivel fazer, pois não tenho uma conta corporativa. 
+
